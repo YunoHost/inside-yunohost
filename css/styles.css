@@ -2,6 +2,13 @@ body {}
 
 h1, h2, h3 {}
 
+h2 {
+    margin: 0.5em 0;
+}
+h3 {
+    margin: 0.5em 0;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -19,6 +26,9 @@ img {
     line-height: 1.4;
 }
 
+#slide-begin {background: #fff;}
+#slide-end {background: #000;}
+
 #slide-ynh-help {}
 #slide-ynh-help .remark-code {
     font-size: 0.9rem;
@@ -29,6 +39,3 @@ img {
     font-size: 1.8rem;
 }
 
-#slide-end {
-    background: #000;
-}

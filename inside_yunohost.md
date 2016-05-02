@@ -1,3 +1,4 @@
+name:begin
 class: center, middle
 
 ![YNH](logo_white.png)
