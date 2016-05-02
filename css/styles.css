@@ -14,7 +14,18 @@ img {
     height: auto;
 }
 
-.remark-code, .remark-inline-code { font-family: monospace; }
+.remark-code,
+.remark-inline-code {
+    font-size: 18px;
+    font-family: monospace;
+}
+.remark-inline-code {
+    display: inline-block;
+    vertical-align: baseline;
+    padding: 0.1em 0.5em;
+    background: #F0F0F0;
+}
+
 
 .remark-slide-content {
     padding: 1em 3em;

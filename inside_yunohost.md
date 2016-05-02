@@ -114,6 +114,31 @@ global arguments:
 
 ## Comment ça fonctionne ?
 
+### Moulinette
+
+ActionMap : 1 fichier .yml pour définir les url API & CLI
+
+```yml
+### user_info()
+info:
+    action_help: Get user information
+    api: GET /users/<username>
+    configuration:
+        authenticate: all
+        authenticator: ldap-anonymous
+    arguments:
+        username:
+            help: Username or email to get information
+
+```
+
+→ `$ yunohost user info <USERNAME>`    
+→ `https://example.com/users/<USERNAME>`
+
+---
+
+## Comment ça fonctionne ?
+
 ### Domaines
 
 - Possibilité de DynDNS
@@ -202,9 +227,9 @@ global arguments:
 
 ### Veganaise
 
-- Rebuildd
-- Debian repositories
-- ISOs & VMs
+- Rebuildd (build *.deb)
+- Debian repositories (repo.yunohost.org)
+- ISOs & VMs (build.yunohost.org)
 - NS1
 
 ---
@@ -220,7 +245,9 @@ global arguments:
 
 ## Équipe & gouvernance
 
-\#yolo
+- petite équipe pour l'instant
+- do-ocracy
+- **New** BugTracker => suivi
 
 ---
 
