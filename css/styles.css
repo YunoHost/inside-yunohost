@@ -1,0 +1,30 @@
+body {}
+
+h1, h2, h3 {}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.remark-code, .remark-inline-code { font-family: monospace; }
+
+.remark-slide-content {
+    padding: 1em 3em;
+    background: #fdfdfd;
+    font-size: 1.4rem;
+}
+
+.remark-slide-content ul {
+    line-height: 1.4;
+}
+
+#slide-ynh-help {}
+#slide-ynh-help .remark-code {
+    font-size: 0.9rem;
+}
+
+#slide-map {}
+#slide-map ul {
+    font-size: 1.8rem;
+}

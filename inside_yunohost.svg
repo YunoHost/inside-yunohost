@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="124cm" height="77cm" viewBox="-8259 -241 2464 1525" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="-6760" y="-240" width="840" height="280"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6760" y="-240" width="840" height="280"/>
+  </g>
+  <g>
+    <rect style="fill: #fdfdfd" x="-8086.18" y="683.322" width="692.958" height="247.912"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-8086.18" y="683.322" width="692.958" height="247.912"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7739.7" y="746.222">
+    <tspan x="-7739.7" y="746.222">Annuaire LDAP</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7146.7" y="1532.11">
+    <tspan x="-7146.7" y="1532.11"></tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-8086.18" y="838.567">
+    <tspan x="-8086.18" y="838.567">  - Gestion des comptes utilisateurs</tspan>
+    <tspan x="-8086.18" y="880.901">  - Gestion de l'authentification admin</tspan>
+    <tspan x="-8086.18" y="923.234"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffa500" x="-7679.83" y="993.735" width="924.739" height="288.194"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-7679.83" y="993.735" width="924.739" height="288.194"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7217.47" y="1056.64">
+    <tspan x="-7217.47" y="1056.64">YUNOHOST / Moulinette</tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7679.83" y="1146.93">
+    <tspan x="-7679.83" y="1146.93">  ligne de commande et API REST  </tspan>
+    <tspan x="-7679.83" y="1189.26"></tspan>
+    <tspan x="-7679.83" y="1231.6">  Paquets 'moulinette', 'yunohost'</tspan>
+    <tspan x="-7679.83" y="1273.93"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #fdfdfd" x="-6480" y="1120" width="680" height="153.037"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-6480" y="1120" width="680" height="153.037"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6140" y="1182.9">
+    <tspan x="-6140" y="1182.9">Serveur Mail</tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6480" y="1265.04">
+    <tspan x="-6480" y="1265.04">  Paquets 'postfix', 'dovecot', 'rspamd'</tspan>
+  </text>
+  <g>
+    <rect style="fill: #fdfdfd" x="-6480" y="920" width="682.805" height="153.037"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-6480" y="920" width="682.805" height="153.037"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6138.6" y="982.9">
+    <tspan x="-6138.6" y="982.9">Serveur XMPP</tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6480" y="1065.04">
+    <tspan x="-6480" y="1065.04">  Paquet 'metronome'</tspan>
+  </text>
+  <g>
+    <rect style="fill: #fdfdfd" x="-6480" y="720" width="680" height="153.037"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-6480" y="720" width="680" height="153.037"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6140" y="782.9">
+    <tspan x="-6140" y="782.9">Serveur Web</tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6480" y="865.037">
+    <tspan x="-6480" y="865.037">  Paquet 'nginx'</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-7679.83,1137.83 -7739.7,1137.83 -7739.7,957.414 "/>
+    <polygon style="fill: #000000" points="-7739.7,942.414 -7729.7,962.414 -7739.7,957.414 -7749.7,962.414 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7739.7,942.414 -7729.7,962.414 -7739.7,957.414 -7749.7,962.414 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 4; stroke: #000000" points="-6755.1,1137.83 -6617.55,1137.83 -6617.55,996.518 -6506.18,996.518 "/>
+    <polygon style="fill: #000000" points="-6491.18,996.518 -6511.18,1006.52 -6506.18,996.518 -6511.18,986.518 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6491.18,996.518 -6511.18,1006.52 -6506.18,996.518 -6511.18,986.518 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-7600" y="320" width="666.069" height="307.334"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-7600" y="320" width="666.069" height="307.334"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7266.97" y="382.9">
+    <tspan x="-7266.97" y="382.9">SSO (Auth web)</tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7600" y="450">
+    <tspan x="-7600" y="450">  - Authentification sur les apps</tspan>
+    <tspan x="-7600" y="492.334">  - Interface utilisateur</tspan>
+    <tspan x="-7600" y="534.667"></tspan>
+    <tspan x="-7600" y="577">  Paquet 'ssowat'</tspan>
+    <tspan x="-7600" y="619.334"></tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-7739.7,657.142 -7739.7,473.667 -7626.18,473.667 "/>
+    <polygon style="fill: #000000" points="-7739.7,672.142 -7749.7,652.142 -7739.7,657.142 -7729.7,652.142 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7739.7,672.142 -7749.7,652.142 -7739.7,657.142 -7729.7,652.142 "/>
+    <polygon style="fill: #000000" points="-7611.18,473.667 -7631.18,483.667 -7626.18,473.667 -7631.18,463.667 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7611.18,473.667 -7631.18,483.667 -7626.18,473.667 -7631.18,463.667 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-7600" y="0" width="702.884" height="195.99"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #444444" x="-7600" y="0" width="702.884" height="195.99"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7248.56" y="62.9">
+    <tspan x="-7248.56" y="62.9">Administration web</tspan>
+  </text>
+  <text font-size="33.8661" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7600" y="145.657">
+    <tspan x="-7600" y="145.657">  Paquet 'yunohost-admin'</tspan>
+    <tspan x="-7600" y="187.99"></tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-7739.7,657.142 -7739.7,97.9951 -7626.18,97.9951 "/>
+    <polygon style="fill: #000000" points="-7739.7,672.142 -7749.7,652.142 -7739.7,657.142 -7729.7,652.142 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7739.7,672.142 -7749.7,652.142 -7739.7,657.142 -7729.7,652.142 "/>
+    <polygon style="fill: #000000" points="-7611.18,97.9951 -7631.18,107.995 -7626.18,97.9951 -7631.18,87.9951 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7611.18,97.9951 -7631.18,107.995 -7626.18,97.9951 -7631.18,87.9951 "/>
+  </g>
+  <g>
+    <rect style="fill: #ff4e4e" x="-6142.62" y="151.85" width="237.586" height="104.651"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6142.62" y="151.85" width="237.586" height="104.651"/>
+  </g>
+  <text font-size="45.1549" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6023.83" y="219.825">
+    <tspan x="-6023.83" y="219.825">App #1</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff4e4e" x="-6142.18" y="278.431" width="237.586" height="104.651"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6142.18" y="278.431" width="237.586" height="104.651"/>
+  </g>
+  <text font-size="45.1549" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6023.39" y="346.406">
+    <tspan x="-6023.39" y="346.406">App #2</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-6169.37,330.756 -6538.56,330.756 -6538.56,473.667 -6907.75,473.667 "/>
+    <polygon style="fill: #000000" points="-6154.37,330.756 -6174.37,340.756 -6169.37,330.756 -6174.37,320.756 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6154.37,330.756 -6174.37,340.756 -6169.37,330.756 -6174.37,320.756 "/>
+    <polygon style="fill: #000000" points="-6922.75,473.667 -6902.75,463.667 -6907.75,473.667 -6902.75,483.667 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6922.75,473.667 -6902.75,463.667 -6907.75,473.667 -6902.75,483.667 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-6168.8,204.175 -6640,204.175 -6640,473.667 -6907.75,473.667 "/>
+    <polygon style="fill: #000000" points="-6153.8,204.175 -6173.8,214.175 -6168.8,204.175 -6173.8,194.175 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6153.8,204.175 -6173.8,214.175 -6168.8,204.175 -6173.8,194.175 "/>
+    <polygon style="fill: #000000" points="-6922.75,473.667 -6902.75,463.667 -6907.75,473.667 -6902.75,483.667 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6922.75,473.667 -6902.75,463.667 -6907.75,473.667 -6902.75,483.667 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-6140,693.82 -6140,473.667 -6907.75,473.667 "/>
+    <polygon style="fill: #000000" points="-6140,708.82 -6150,688.82 -6140,693.82 -6130,688.82 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6140,708.82 -6150,688.82 -6140,693.82 -6130,688.82 "/>
+    <polygon style="fill: #000000" points="-6922.75,473.667 -6902.75,463.667 -6907.75,473.667 -6902.75,483.667 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6922.75,473.667 -6902.75,463.667 -6907.75,473.667 -6902.75,483.667 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 4; stroke: #000000" points="-6755.1,1137.83 -6617.55,1137.83 -6617.55,1196.52 -6506.18,1196.52 "/>
+    <polygon style="fill: #000000" points="-6491.18,1196.52 -6511.18,1206.52 -6506.18,1196.52 -6511.18,1186.52 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6491.18,1196.52 -6511.18,1206.52 -6506.18,1196.52 -6511.18,1186.52 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 4; stroke: #000000" points="-6755.1,1137.83 -6617.55,1137.83 -6617.55,796.518 -6506.18,796.518 "/>
+    <polygon style="fill: #000000" points="-6491.18,796.518 -6511.18,806.518 -6506.18,796.518 -6511.18,786.518 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6491.18,796.518 -6511.18,806.518 -6506.18,796.518 -6511.18,786.518 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7679.83,1137.83 -8174.37,1137.83 -8174.37,643.901 "/>
+    <path style="fill: #000000" d="M -7679.83 1137.83 C -7679.83,1140.33 -7682.33,1142.83 -7684.83,1142.83 C -7687.33,1142.83 -7689.83,1140.33 -7689.83,1137.83 C -7689.83,1135.33 -7687.33,1132.83 -7684.83,1132.83 C -7682.33,1132.83 -7679.83,1135.33 -7679.83,1137.83z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" d="M -7679.83 1137.83 C -7679.83,1140.33 -7682.33,1142.83 -7684.83,1142.83 C -7687.33,1142.83 -7689.83,1140.33 -7689.83,1137.83 C -7689.83,1135.33 -7687.33,1132.83 -7684.83,1132.83 C -7682.33,1132.83 -7679.83,1135.33 -7679.83,1137.83"/>
+    <path style="fill: #000000" d="M -8174.37 643.901 C -8171.87,643.901 -8169.37,646.401 -8169.37,648.901 C -8169.37,651.401 -8171.87,653.901 -8174.37,653.901 C -8176.87,653.901 -8179.37,651.401 -8179.37,648.901 C -8179.37,646.401 -8176.87,643.901 -8174.37,643.901z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" d="M -8174.37 643.901 C -8171.87,643.901 -8169.37,646.401 -8169.37,648.901 C -8169.37,651.401 -8171.87,653.901 -8174.37,653.901 C -8176.87,653.901 -8179.37,651.401 -8179.37,648.901 C -8179.37,646.401 -8176.87,643.901 -8174.37,643.901"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="-8174.37" cy="560.904" rx="82.9966" ry="82.9966"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="-8174.37" cy="560.904" rx="82.9966" ry="82.9966"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="-8174.37" cy="560.904" rx="82.9966" ry="82.9966"/>
+  </g>
+  <text font-size="67.7323" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-8174.37" y="584.354">
+    <tspan x="-8174.37" y="584.354">API</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7248.56,0 -7248.56,-80 -8174.37,-80 -8174.37,477.908 "/>
+    <path style="fill: #000000" d="M -7248.56 0 C -7251.06,0 -7253.56,-2.5 -7253.56,-5 C -7253.56,-7.5 -7251.06,-10 -7248.56,-10 C -7246.06,-10 -7243.56,-7.5 -7243.56,-5 C -7243.56,-2.5 -7246.06,0 -7248.56,0z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" d="M -7248.56 0 C -7251.06,0 -7253.56,-2.5 -7253.56,-5 C -7253.56,-7.5 -7251.06,-10 -7248.56,-10 C -7246.06,-10 -7243.56,-7.5 -7243.56,-5 C -7243.56,-2.5 -7246.06,0 -7248.56,0"/>
+    <path style="fill: #000000" d="M -8174.37 477.908 C -8176.87,477.908 -8179.37,475.408 -8179.37,472.908 C -8179.37,470.408 -8176.87,467.908 -8174.37,467.908 C -8171.87,467.908 -8169.37,470.408 -8169.37,472.908 C -8169.37,475.408 -8171.87,477.908 -8174.37,477.908z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" d="M -8174.37 477.908 C -8176.87,477.908 -8179.37,475.408 -8179.37,472.908 C -8179.37,470.408 -8176.87,467.908 -8174.37,467.908 C -8171.87,467.908 -8169.37,470.408 -8169.37,472.908 C -8169.37,475.408 -8171.87,477.908 -8174.37,477.908"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 40; stroke: #000000" points="-6447.77,-141.494 -6588.15,-141.494 -6588.15,-182.471 -6693.3,-182.471 "/>
+    <polygon style="fill: #000000" points="-6432.77,-141.494 -6452.77,-131.494 -6447.77,-141.494 -6452.77,-151.494 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6432.77,-141.494 -6452.77,-131.494 -6447.77,-141.494 -6452.77,-151.494 "/>
+    <polygon style="fill: #000000" points="-6708.3,-182.471 -6688.3,-192.471 -6693.3,-182.471 -6688.3,-172.471 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6708.3,-182.471 -6688.3,-192.471 -6693.3,-182.471 -6688.3,-172.471 "/>
+  </g>
+  <text font-size="45.1549" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6400" y="-160">
+    <tspan x="-6400" y="-160">Authentification</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 4; stroke: #000000" points="-6708.44,-76.7218 -6560.39,-76.7218 -6560.39,-15.0342 -6447.77,-15.0342 "/>
+    <polygon style="fill: #000000" points="-6432.77,-15.0342 -6452.77,-5.03422 -6447.77,-15.0342 -6452.77,-25.0342 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-6432.77,-15.0342 -6452.77,-5.03422 -6447.77,-15.0342 -6452.77,-25.0342 "/>
+  </g>
+  <text font-size="45.1549" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6403.7" y="-24.2849">
+    <tspan x="-6403.7" y="-24.2849">Configuration</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 4; stroke: #000000" points="-7217.47,993.735 -7217.53,993.735 -7217.53,807.278 -7367.04,807.278 "/>
+    <polygon style="fill: #000000" points="-7382.04,807.278 -7362.04,797.278 -7367.04,807.278 -7362.04,817.278 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7382.04,807.278 -7362.04,797.278 -7367.04,807.278 -7362.04,817.278 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 10; stroke-dasharray: 4; stroke: #000000" points="-7217.47,993.735 -7217.47,806.034 -7266.97,806.034 -7266.97,653.514 "/>
+    <polygon style="fill: #000000" points="-7266.97,638.514 -7256.97,658.514 -7266.97,653.514 -7276.97,658.514 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 10; stroke: #000000" points="-7266.97,638.514 -7256.97,658.514 -7266.97,653.514 -7276.97,658.514 "/>
+  </g>
+  <text font-size="67.7333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="-8240" y="-160">
+    <tspan x="-8240" y="-160">YunoHost</tspan>
+  </text>
+</svg>
