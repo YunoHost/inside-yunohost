@@ -1,6 +1,6 @@
 class: center, middle
 
-![YNH](logo.png)
+![YNH](logo_white.png)
 
 ---
 name: map
@@ -291,6 +291,6 @@ name:links
     - Contributors [contrib@list.yunohost.org](https://list.yunohost.org/cgi-bin/mailman/listinfo/contrib)
 
 ---
-
+name: end
 class: center, middle
-![YNH](logo.png)
+![YNH](logo_black.png)
