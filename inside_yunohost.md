@@ -133,7 +133,7 @@ info:
 ```
 
 → `$ yunohost user info <USERNAME>`    
-→ `https://example.com/users/<USERNAME>`
+→ `https://example.com/yunohost/api/users/<USERNAME>`
 
 ---
 
@@ -222,6 +222,14 @@ Application d'exemple : [github.com/YunoHost/example_ynh](https://github.com/Yun
 
 ---
 
+## Outils de développement
+
+Basé sur des VM Vagrant
+
+- https://github.com/YunoHost/ynh-dev
+
+---
+
 ## Infrastructure
 
 ### Tartare
@@ -231,14 +239,6 @@ Application d'exemple : [github.com/YunoHost/example_ynh](https://github.com/Yun
 - XMPP (salon support & dev)
 - DynDNS
 - NS0
-
----
-
-## Outils de développement
-
-Basé sur des VM Vagrant
-
-- https://github.com/YunoHost/ynh-dev
 
 ---
 
@@ -275,6 +275,9 @@ Basé sur des VM Vagrant
 - Doc
 - Support
 - Code
+- Faire des rapports de bugs (et comment faire un bon rapport de bug)
+- Traduction
+- Apps
 - ...
 
 ---
