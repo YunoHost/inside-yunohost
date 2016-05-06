@@ -211,6 +211,17 @@ info:
 
 ---
 
+## Quel code ?
+
+### Applications
+
+- Scripts Bash
+- Helpers
+
+Application d'exemple : [github.com/YunoHost/example_ynh](https://github.com/YunoHost/example_ynh)
+
+---
+
 ## Infrastructure
 
 ### Tartare
