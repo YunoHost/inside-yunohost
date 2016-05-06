@@ -194,7 +194,7 @@ info:
 
 #### Dépots Git
 
-- SSOwat [github.com/Kloadut/SSOwat](https://github.com/Kloadut/SSOwat)
+- SSOwat [github.com/YunoHost/SSOwat](https://github.com/YunoHost/SSOwat)
 
 ---
 
@@ -325,7 +325,7 @@ name:links
     - Moulinette [github.com/YunoHost/moulinette](https://github.com/YunoHost/moulinette)
     - YunoHost [github.com/YunoHost/yunohost](https://github.com/YunoHost/yunohost)
     - Admin web [github.com/YunoHost/yunohost-admin](https://github.com/YunoHost/yunohost-admin)
-    - SSOwat [github.com/Kloadut/SSOwat](https://github.com/Kloadut/SSOwat)
+    - SSOwat [github.com/YunoHost/SSOwat](https://github.com/YunoHost/SSOwat)
     - Documentation [github.com/YunoHost/doc](https://github.com/YunoHost/doc)
 - Dépots d'applications : [github.com/YunoHost-Apps](https://github.com/YunoHost-Apps)
 - Mailing Lists [list.yunohost.org](https://list.yunohost.org)
