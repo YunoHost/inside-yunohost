@@ -234,6 +234,14 @@ Application d'exemple : [github.com/YunoHost/example_ynh](https://github.com/Yun
 
 ---
 
+## Outils de développement
+
+Basé sur des VM Vagrant
+
+- https://github.com/YunoHost/ynh-dev
+
+---
+
 ## Infrastructure
 
 ### Veganaise
@@ -300,14 +308,6 @@ Application d'exemple : [github.com/YunoHost/example_ynh](https://github.com/Yun
 - Salon XMPP [dev@conference.yunohost.org](xmpp:dev@conference.yunohost.org)
 - Bug tracker [dev.yunohost.org](https://dev.yunohost.org)
 - Github [github.com/YunoHost](https://github.com/YunoHost)
-
----
-
-## Outils de développement
-
-Basé sur des VM Vagrant
-
-- https://github.com/YunoHost/ynh-dev
 
 ---
 name:links
